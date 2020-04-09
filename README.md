@@ -1,6 +1,6 @@
 # Programming Custom Transformers, Pipelines, and Ensemble Models to Predict Venue Ratings from the Yelp Academic Dataset
 
-<span id='back-up'>The Yelp academic dataset </span> (included in this repository) consists of about 38,000 business listings and their relevant information. Each listing includes 15 properties, e.g. `business_id`, `full_address`, `hours`, `categories`, etc ([Click here to see all of a listing's properties (anchors don't work in Github)](#listing)).
+The Yelp academic dataset </span> (included in this repository) consists of about 38,000 business listings and their relevant information. Each listing includes 15 properties, e.g. `business_id`, `full_address`, `hours`, `categories`, etc.
 
 The **goal of this project** is to demonstrate the use of custom transformer classes, chaining custom tranformers/estimators into pipelines for composite estimators, and using feature unions to develop an ensemble model for venues' ratings prediction.
 
